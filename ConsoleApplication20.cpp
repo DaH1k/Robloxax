@@ -27,6 +27,7 @@ void main()
 	fout << "---------------------------------------------------------------" << endl;
 	<< endl;
 	fout << "Average attendance: " << avg << " % " << endl;
+	cout << "Hello world!"<<endl;
 	fin.close();
 	fout.close();
 }
